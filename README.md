@@ -4,7 +4,6 @@
 
 - :sunflower: Architect
 - :purple_heart: Data visualization + Maps + Urban data
-- 🗺️ I’m learning about UX Design
 - 🌱 I’m into Programming, Creative Coding and Generative Art
 
 
